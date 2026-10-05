@@ -1,0 +1,11 @@
+Microsoft Windows [versão 10.0.26200.9457]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\lab01>git --version
+git version 2.47.0.windows.2
+
+C:\Users\lab01>git config --global user.name "Rhuan"
+
+C:\Users\lab01>git config --global user.email "rhuanmatheusdossantos600@gmail.com"
+
+C:\Users\lab01>
