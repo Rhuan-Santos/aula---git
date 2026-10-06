@@ -9,3 +9,5 @@ C:\Users\lab01>git config --global user.name "Rhuan"
 C:\Users\lab01>git config --global user.email "rhuanmatheusdossantos600@gmail.com"
 
 C:\Users\lab01>
+
+git init => inicia a coneção com o 
